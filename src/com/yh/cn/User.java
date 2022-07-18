@@ -10,11 +10,6 @@ package com.yh.cn;
 public class User {
     public static void main(String[] args) {
         System.out.println("hello user v1");
-        System.out.println("hello user v2");
-        System.out.println("hello world v3");
-        System.out.println("hello world v4");
-        System.out.println("git v1");
-        printf("haha");
     }
 
 }
