@@ -18,5 +18,6 @@ public class User {
     public static  void test1(){
         System.out.println("add test1 method");
         System.out.println("hot fix");
+        System.out.println("master is good");
     }
 }
