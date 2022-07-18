@@ -16,5 +16,6 @@ public class User {
         System.out.println("add test1 method");
         System.out.println("hot fix");
         System.out.println("hot fix 2");
+        System.out.println("hot fix 3");
     }
 }
