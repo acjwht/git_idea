@@ -14,10 +14,4 @@ public class User {
         System.out.println("hello world v3");
         System.out.println("hello world v4");
     }
-
-    public static  void test1(){
-        System.out.println("add test1 method");
-        System.out.println("hot fix");
-        System.out.println("hot fix 2");
-    }
 }
